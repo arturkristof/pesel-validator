@@ -1,6 +1,6 @@
-.vs
-Debug
+.vs/
+Debug/
 pesel-validator.sln
-pesel-validator/Debug
+pesel-validator/Debug/
 pesel-validator/pesel-validator.vcxproj
 pesel-validator/pesel-validator.vcxproj.filters
