@@ -1,4 +1,4 @@
-# Pesel Validator
+# PESEL Validator
 Project for university from 2015
 
 This program checks if given PESEL is valid.  
